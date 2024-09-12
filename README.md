@@ -19,7 +19,7 @@
 
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="Reactnative" src ="https://img.shields.io/badge/ReactNative-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="expo" src ="https://img.shields.io/badge/expo-000020.svg?&style=for-the-badge&logo=expo&logoColor=white"/> <img alt="express" src ="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>   
 
-<img alt="django" src ="https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img alt="vuedotjs" src ="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img alt="nextdotjs" src ="https://img.shields.io/badge/nextdotjs-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img alt="django" src ="https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img alt="vuedotjs" src ="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img alt="nextdotjs" src ="https://img.shields.io/badge/next.js-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
 
 <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img alt="styledcomponents" src ="https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=white"/> <img alt="mui" src ="https://img.shields.io/badge/mui-007FFF.svg?&style=for-the-badge&logo=mui&logoColor=white"/>   
