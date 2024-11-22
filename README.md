@@ -8,7 +8,7 @@
 
 <div align="center">
    
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nitori)](https://solved.ac/nitori/) &nbsp;   ![DDARK00's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDARK00&show_icons=true&theme=highcontrast)    
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nitori)](https://solved.ac/nitori/) &nbsp;   ![DDARK00's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDARK00&show_icons=true&theme=highcontrast&c)    
 
 </div>
 <br/>
